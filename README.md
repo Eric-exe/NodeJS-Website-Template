@@ -1,5 +1,5 @@
 # Just A Simple Node.JS Website Template
-![License](https://img.shields.io/github/license/EricLin-jpg/NodeJS-Website-Template.git)
+![License](https://img.shields.io/github/license/EricLin-jpg/NodeJS-Website-Template)
 
 That's really about it.
 
