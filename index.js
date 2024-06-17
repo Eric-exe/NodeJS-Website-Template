@@ -1,4 +1,5 @@
-// the entry file, sets up the local server
+require('dotenv').config()
+
 const express = require('express');
 const app = express();
 
@@ -11,5 +12,4 @@ app.use(express.static('public'))
 // set up the server
 app.listen(port, () => {
     console.log(`Server is running on port ${port}`);
-    }
-);
+});
